@@ -67,7 +67,8 @@ nav {
 }
 
 .hero-content h1 {
-    font-size: 48px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
     margin-bottom: 20px;
 }
 
